@@ -4,7 +4,9 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 
 - **Me siga no GitHub:** https://github.com/hgmauri
 - **Me siga no LinkedIn:** https://linkedin.com/in/hgmauri
+- **Me siga no Twitter:** https://twitter.com/hgmauri
 - **Meu blog:** https://henriquemauri.net
+- **Consultoria:** https://dotcode.com.br
 
 ### :open_file_folder: Blogs em Inglês
 * [.NET Blog](https://devblogs.microsoft.com/dotnet) - .NET, C#, Azure e Novidades Microsoft
@@ -62,12 +64,14 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Scott Hanselman](https://www.hanselman.com/blog)- .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Sergey Tihon](https://sergeytihon.com) - F# e .NET
 * [Swimburger .NET Blog](https://swimburger.net/blog) - .NET, C# e Arquitetura de Software
+* [Steven Giesel](https://steven-giesel.com) - .NET, C#, Blazor, Arquitetura de Software e Novidades Microsoft
 * [Steve Gordon](https://www.stevejgordon.co.uk/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Programming With Wolfgang](https://www.programmingwithwolfgang.com) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [The Cloud Blog](https://thecloudblog.net) - .NET e Azure
 * [The Code Blogger](https://thecodeblogger.com) - .NET e Azure
 * [The Morning Brew](https://blog.cwa.me.uk) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Thomas Levesque's .NET Blog](https://thomaslevesque.com) - .NET e C#
+* [We are .Net](https://www.wearedotnet.io) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 
 ### :open_file_folder: Blogs em Português
 * http://macoratti.net
@@ -80,7 +84,8 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://dirceuresende.com
 * https://docs.microsoft.com/pt-br/dotnet/core
 * https://docs.microsoft.com/pt-br/learn
-* https://eximiaco.tech/pt/blog
+* https://arquiteturadesoftware.online/
+* https://arquiteturadesoftware.online/podcast/
 * https://fullcycle.com.br
 * https://gago.io/dotnet
 * https://gbbigardi.medium.com
@@ -90,6 +95,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://medium.com/@alexandre.malavasi
 * https://medium.com/@luisdeolme
 * https://medium.com/@marraia
+* https://marcionizzola.medium.com
 * https://rafaelcruz.azurewebsites.net
 * https://rafaeldossantos.net
 * https://ralms.net
@@ -109,6 +115,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://github.com/jasontaylordev
 * https://github.com/jbogard
 * https://github.com/JeremyLikness
+* https://github.com/nizzola  
 * https://github.com/KevinDockx
 * https://github.com/rafaelfgx
 * https://github.com/renatogroffe
@@ -161,6 +168,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 ### :open_file_folder: Youtube
 * [.NET Foundation](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A)
 * [Alexandre Brandão](https://www.youtube.com/c/abrandaol)
+* [Andre Okazaki](https://www.youtube.com/c/OkazakiAndre)
 * [André Secco](https://www.youtube.com/c/AndreSecco)
 * [Angelo Belchior](https://www.youtube.com/user/angelobelchior)
 * [Azure Brasil](https://www.youtube.com/channel/UCgRzOTVWlyshyIgmxtbYgaQ)
@@ -173,7 +181,8 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Coders In Rio](https://www.youtube.com/channel/UC65S8lTO_ajBIAwK7ZEraAw)
 * [Codewrinkles](https://www.youtube.com/@Codewrinkles)
 * [Coding Night](https://www.youtube.com/c/CodingNight)
-* [Daniel Jesus](https://www.youtube.com/c/DanielJesusDotNet)
+* [Cristiano Cunha](http://www.youtube.com/c/CristianoRaffiCunha)
+* [Daniel Jesus](https://www.youtube.com/@DanielJesusNet)
 * [Desenvolvedor.io](https://www.youtube.com/channel/UCC-i2bS_oH2os9niHX2ApOA)
 * [DevelopersBR](https://www.youtube.com/channel/UCGhSrtP0-1qq0XPbnMpi2kQ)
 * [Dirceu Resende](https://www.youtube.com/channel/UCCVLb9jTx8MlFOUoNrJwHcw)
@@ -198,6 +207,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 
 ### :open_file_folder: Whatsapp
 * [.NET Brasil](https://chat.whatsapp.com/CusYUzlD6pKG2jfrk0u3DM)
+* [Comunidade Ecossistema.NET](https://chat.whatsapp.com/KuHvBgcmkVA4wxEdm2fFmk)
 
 ### :open_file_folder: Telegram
 * https://t.me/apibuilders
@@ -321,6 +331,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 - https://onlinexmltools.com - Ferramenta para validar, formatar e converter objetos para XML
 - https://www.dofactory.com - Design Patterns, Code Standard e Exemplos de código
 - https://github.com/quozd/awesome-dotnet - Estudos de algoritmos
+- https://rapidapi.com/hub - Lista de APIs para realização de testes
 
 ### :open_file_folder: APIs
 - https://github.com/TelegramBots/Telegram.Bot
